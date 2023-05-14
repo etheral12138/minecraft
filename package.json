@@ -1,8 +1,8 @@
 {
-  "name": "minecraft-threejs",
+  "name": "minecraft",
   "version": "0.0.0",
   "license": "MIT",
-  "author": "Yulei Zhu",
+  "author": "Etheral",
   "description": "Minecraft clone made with Three.js and TypeScript",
   "scripts": {
     "dev": "vite",
